@@ -1,5 +1,4 @@
-google-auth
 streamlit
 gspread
+google-auth  # or oauth2client if using legacy auth
 plotly
-oauth2client
